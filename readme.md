@@ -2,10 +2,12 @@
 
 # 🛠️ Awesome Retool Components
 
-**Professional tools, built with care**
+**Frictionless operations software for modern teams**
 
 [![Website][website-shield]][website-url]
+[![Blog][blog-shield]][blog-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -84,4 +86,7 @@ Use existing tags when possible. If you propose new ones, maintainers will revie
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/stackdrop/
 [website-shield]: https://img.shields.io/badge/Website-Visit-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white
-[website-url]: https://stackdrop.co
+[website-url]: https://stackdrop.co/?utm_source=github&utm_medium=badge&utm_campaign=awesome-retool-components
+[blog-shield]: https://img.shields.io/badge/Blog-Read%20Now-orange?style=for-the-badge
+[blog-url]: https://stackdrop.co/blog?utm_source=github&utm_medium=badge&utm_campaign=awesome-retool-components
+
