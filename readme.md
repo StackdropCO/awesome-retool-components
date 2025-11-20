@@ -8,8 +8,7 @@ You can browse, learn from, and reuse them in your own Retool apps.
 ## Table of Contents
 - [List of Components](#list-of-components)
 - [Instructions for Contributors](#instructions-for-contributors)
-- [Code of Conduct](#code-of-conduct)
-- [Maintainers and License](#maintainers-and-license)
+- [Maintainers](#maintainers-and-license)
 - [FAQ](#faq)
 
 ## List of Components
@@ -21,17 +20,9 @@ Submit yours using the instructions below.
 | ... | Your component here | … | … | … |
 
 
-## Code of Conduct
-Please behave respectfully and constructively.
-See `CODE_OF_CONDUCT.md` for full details.
-
-## Maintainers and License
 **Maintainers:**  
 List your GitHub handles here.
 
-**License:**  
-This project is under the MIT License.
-See `LICENSE.md`.
 
 ## FAQ
 
