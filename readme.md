@@ -7,7 +7,6 @@ You can browse, learn from, and reuse them in your own Retool apps.
 
 ## Table of Contents
 - [List of Components](#list-of-components)
-- [Instructions for Contributors](#instructions-for-contributors)
 - [Maintainers](#maintainers-and-license)
 - [FAQ](#faq)
 
@@ -17,7 +16,8 @@ Submit yours using the instructions below.
 | # | Component | Description | Repository | Tags |
 |---|-----------|-------------|------------|------|
 | 1 | **Example Retool Component** | A placeholder example showing how list entries work. | https://github.com/example/retool-component | table · ui |
-| ... | Your component here | … | … | … |
+| 2  | **Custom Range Slider for Retool** | Visualize distributions and select precise ranges with data context.         | https://github.com/StackdropCO/custom-range-slider-retool-component   | UI Components            |
+| 3  | **Editor.js for Retool**     | Add block-style editing to Retool using our open-source Editor.js component. | https://github.com/StackdropCO/editorjs-retool-component              | Data & Input Components  |
 
 
 **Maintainers:**  
