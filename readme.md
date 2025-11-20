@@ -1,4 +1,19 @@
-# Awesome Retool Components 🚀
+<div align="center">
+
+# 🛠️ Awesome Retool Components
+
+**Professional tools, built with care**
+
+[![Website][website-shield]][website-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+
+</div>
 A curated directory of **custom Retool components** built and shared by the community.
 
 ## Why This Exists
@@ -26,15 +41,46 @@ List your GitHub handles here.
 
 ## FAQ
 
-### Can I submit a component that is not open source?
-You can, but please clearly indicate its license or usage restrictions. We prefer open source entries so others can learn from and improve them.
+<details>
+  <summary>Can I submit a component that is not open source?</summary>
 
-### My component does not use React. Can I still add it?
+You can, but please clearly indicate its license or usage restrictions. 
+We prefer open source entries so others can learn from and improve them.
+
+</details>
+
+<details>
+  <summary>My component does not use React. Can I still add it?</summary>
+
 Yes. Any custom component created for Retool - React, Vanilla JS, Web Components, etc - is welcome.
 
-### What if my component becomes outdated?
+</details>
+
+<details>
+  <summary>What if my component becomes outdated?</summary>
+
 You can submit an update or mark it as deprecated. We maintain transparency and historical accuracy.
 
-### How are tags chosen?
+</details>
+
+<details>
+  <summary>How are tags chosen?</summary>
+
 Use existing tags when possible. If you propose new ones, maintainers will review them.
 
+</details>
+
+[contributors-shield]: https://img.shields.io/github/contributors/StackdropCO/awesome-retool-components.svg?style=for-the-badge
+[contributors-url]: https://github.com/StackdropCO/awesome-retool-components/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StackdropCO/awesome-retool-components.svg?style=for-the-badge
+[forks-url]: https://github.com/StackdropCO/awesome-retool-components/network/members
+[stars-shield]: https://img.shields.io/github/stars/StackdropCO/awesome-retool-components.svg?style=for-the-badge
+[stars-url]: https://github.com/StackdropCO/awesome-retool-components/stargazers
+[issues-shield]: https://img.shields.io/github/issues/StackdropCO/awesome-retool-components.svg?style=for-the-badge
+[issues-url]: https://github.com/StackdropCO/awesome-retool-components/issues
+[license-shield]: https://img.shields.io/github/license/StackdropCO/awesome-retool-components.svg?style=for-the-badge
+[license-url]: https://github.com/StackdropCO/awesome-retool-components/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/stackdrop/
+[website-shield]: https://img.shields.io/badge/Website-Visit-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white
+[website-url]: https://stackdrop.co

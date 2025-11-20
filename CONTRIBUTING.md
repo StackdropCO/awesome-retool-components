@@ -1,4 +1,4 @@
-## contributing
+## Contributing
 ## Instructions for Contributors
 We welcome contributions from anyone creating or maintaining custom Retool components.
 
