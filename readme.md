@@ -36,6 +36,7 @@ Submit yours using the instructions below.
 | 1 | **Example Retool Component** | A placeholder example showing how list entries work. | https://github.com/example/retool-component | table · ui |
 | 2  | **Custom Range Slider for Retool** | Visualize distributions and select precise ranges with data context.         | https://github.com/StackdropCO/custom-range-slider-retool-component   | UI Components            |
 | 3  | **Editor.js for Retool**     | Add block-style editing to Retool using our open-source Editor.js component. | https://github.com/StackdropCO/editorjs-retool-component              | Data & Input Components  |
+| 4  | **Custom Radio Group for Retool**     | A customizable radio/checkbox group component for Retool applications. | https://github.com/StackdropCO/custom-radio-group-retool-component             | UI Components  |
 
 
 **Maintainers:**  
