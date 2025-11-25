@@ -37,11 +37,16 @@ Submit yours using the instructions below.
 | 2  | **Custom Range Slider for Retool** | Visualize distributions and select precise ranges with data context.         | https://github.com/StackdropCO/custom-range-slider-retool-component   | UI Components            |
 | 3  | **Editor.js for Retool**     | Add block-style editing to Retool using our open-source Editor.js component. | https://github.com/StackdropCO/editorjs-retool-component              | Data & Input Components  |
 | 4  | **Custom Radio Group for Retool**     | A customizable radio/checkbox group component for Retool applications. | https://github.com/StackdropCO/custom-radio-group-retool-component             | UI Components  |
+| 5  | **Retool Markdown Editor**     | This is a custom component library for Retool that provides a markdown editor implemented with [uiw/react-md-editor](https://github.com/uiwjs/react-md-editor). | https://github.com/jamesg31/retool-markdown-editor | Data & Input Components  |
+| 6  | **Retool WYSIWYG Editor (Markdown and HTML)**     | This is a custom component library for Retool that provides a WYSIWYG editor powered by CKEditor 5 in React. **WARNING:** CKEditor has multiple licenses and may not be open source depending on use case. | https://github.com/jamesg31/retool-wysiwyg-editor | Data & Input Components  |
+| 7  | **Retool Query Builder**     | This is a custom component library for Retool that provides an implimentation of [react-querybuilder](https://react-querybuilder.js.org/) in Retool. This enabled adding customizable and complex filters to your sql powered Retool applications. | https://github.com/jamesg31/retool-query-builder | Data & Input Components  |
+| 8  | **Retool JSON Diff Viewer**     | This is a custom component library for Retool that provides a diff viewer using [json-diff-kit](https://github.com/RexSkz/json-diff-kit). | https://github.com/jamesg31/retool-json-diff | UI Components  |
 
 
 **Maintainers:**  
 List your GitHub handles here.
 
+[jamesg31](https://github.com/jamesg31)
 
 ## FAQ
 
