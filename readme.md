@@ -42,12 +42,6 @@ Submit yours using the instructions below.
 | 7  | **Retool Query Builder**     | This is a custom component library for Retool that provides an implimentation of [react-querybuilder](https://react-querybuilder.js.org/) in Retool. This enabled adding customizable and complex filters to your sql powered Retool applications. | https://github.com/jamesg31/retool-query-builder | Data & Input Components  |
 | 8  | **Retool JSON Diff Viewer**     | This is a custom component library for Retool that provides a diff viewer using [json-diff-kit](https://github.com/RexSkz/json-diff-kit). | https://github.com/jamesg31/retool-json-diff | UI Components  |
 
-
-**Maintainers:**  
-List your GitHub handles here.
-
-[jamesg31](https://github.com/jamesg31)
-
 ## FAQ
 
 <details>
