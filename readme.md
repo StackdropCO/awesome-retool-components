@@ -25,7 +25,6 @@ You can browse, learn from, and reuse them in your own Retool apps.
 
 ## Table of Contents
 - [List of Components](#list-of-components)
-- [Maintainers](#maintainers-and-license)
 - [FAQ](#faq)
 
 ## List of Components
