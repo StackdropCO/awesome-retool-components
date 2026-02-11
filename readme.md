@@ -40,6 +40,7 @@ Submit yours using the instructions below.
 | 6  | **Retool WYSIWYG Editor (Markdown and HTML)**     | This is a custom component library for Retool that provides a WYSIWYG editor powered by CKEditor 5 in React. **WARNING:** CKEditor has multiple licenses and may not be open source depending on use case. | https://github.com/jamesg31/retool-wysiwyg-editor | Data & Input Components  |
 | 7  | **Retool Query Builder**     | This is a custom component library for Retool that provides an implimentation of [react-querybuilder](https://react-querybuilder.js.org/) in Retool. This enabled adding customizable and complex filters to your sql powered Retool applications. | https://github.com/jamesg31/retool-query-builder | Data & Input Components  |
 | 8  | **Retool JSON Diff Viewer**     | This is a custom component library for Retool that provides a diff viewer using [json-diff-kit](https://github.com/RexSkz/json-diff-kit). | https://github.com/jamesg31/retool-json-diff | UI Components  |
+| 9 | **Custom Docx Viewer for Retool** | This is a custom component that preview docx base64 | https://github.com/StackdropCO/custom-doc-viewer | UI Components |
 
 ## FAQ
 
